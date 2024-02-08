@@ -9,4 +9,4 @@
 
 #(Step 1) The console:
 
-- . create your data model
+-  create your data model
