@@ -110,5 +110,4 @@ No Known Bugs at this time
 Bryan sine
 
 ##liicense
-Public Domain. No copy write protection
-
+Public Domain. No copy write protections
