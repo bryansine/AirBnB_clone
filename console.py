@@ -90,6 +90,7 @@ class HBNBCommand(cmd.Cmd):
         pass
 
     def do_create(self, line):
+
         """Creates an instance.
         """
         if line == "" or line is None:
